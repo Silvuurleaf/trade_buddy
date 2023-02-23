@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025514715795",
+    "project_id": "tradebuddy-e9ac1",
+    "storage_bucket": "tradebuddy-e9ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025514715795:android:34a3c8eab2f5131210eb66",
+        "android_client_info": {
+          "package_name": "com.example.trade_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025514715795-rirl31qu4gnrqf4ldjh5i2jr7l84gsj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6c3LORG1h_L3X3md8e1G0gqRDibPrfYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025514715795-rirl31qu4gnrqf4ldjh5i2jr7l84gsj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
